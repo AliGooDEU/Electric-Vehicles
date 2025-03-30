@@ -1,7 +1,7 @@
 # Electric-Vehicles
 ## Project Overview
 This is the first stage of an ongoing project into Electric Vehicles. This initial stage has involved exploratory data analysis and statistical modelling. Some of the analysis can be found on Tableau Public and other analysis is in the Python scripts here. 
-Link to [Tableau Storyboard](https://www.google.com "Google's Homepage")
+Link to [Tableau Storyboard](https://public.tableau.com/views/EVproject_17433553919310/EVdashboards?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) "EV project")
 
 ## Objectives
 * This project intends to see if EVs are in the past or will still remain prevalent in our future. 
