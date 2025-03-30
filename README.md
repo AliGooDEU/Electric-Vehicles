@@ -32,12 +32,13 @@ Has the CAFV eligibility changed over time? Are newer models more likely to be e
 Are some electric providers in areas with more EVs than others?
 
 ## Data Overview
-The data for this project was open source and used for the purposes of completing a CareerFoundry exercise. Primary data on Electric vehicles registered in Washington came from data.gov. Last updated on March 14, 2025. (https://catalog.data.gov/dataset/electric-vehicle-population-data) accessed on 18 March 2025.
+The data for this project was open source and used for the purposes of completing a CareerFoundry exercise. 
++ Primary data on Electric vehicles registered in Washington came from data.gov. Last updated on March 14, 2025. (https://catalog.data.gov/dataset/electric-vehicle-population-data) accessed on 18 March 2025.
 The landing page has some explanations about the data.
 (https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2/about_data)
-A supplementary dataset was sourced from census.gov: ACS 5-Year Estimates Subject Tables accessed on 23 March 2025. (https://data.census.gov/table/ACSST5Y2010.S1903?text=s1903+table&g=1400000US36047034100&moe=false&hidePreview=false) to collect median household income for each Washington county. More information is in the data and scripts files here. 
-GeoJson data: (https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A6/6.3/us-states.json)
-Time Series data via API from Federal Reserve Economic Data "Real Median Personal Income in the United States" (FRED/RPI)
++ A supplementary dataset was sourced from census.gov: ACS 5-Year Estimates Subject Tables accessed on 23 March 2025. (https://data.census.gov/table/ACSST5Y2010.S1903?text=s1903+table&g=1400000US36047034100&moe=false&hidePreview=false) to collect median household income for each Washington county. More information is in the data and scripts files here. 
++ GeoJson data: (https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A6/6.3/us-states.json)
++ Time Series data via API from Federal Reserve Economic Data "Real Median Personal Income in the United States" (FRED/RPI)
 
 ## Tools
 * Python (pandas, NumPy, seaborn, skipy, sklearn, matplotlib) through Anaconda/Jupyter Notebook
